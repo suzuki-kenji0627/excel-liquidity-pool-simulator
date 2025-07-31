@@ -18,3 +18,5 @@ https://kupietz.com (Business info)
 https://github.com/kupietools (Free software)  
 https://michaelkupietz.com (Personal & creative showcase)  
 
+## Background:
+This is definitely of narrow appeal, but I’m happy to share this Web3 AMM Liquidity Pool Simulator project I built in Excel back when I was interested in web3 & decentralized finance. In defi, trading is often done through what's called an Automated Market Maker, a smart contract that serves the same basic purpose as market makers in the traditional stock market, with the slight difference that AMMs require funding by the general public to provide liquidity for other people to trade with, so there is the additional complexity of providing an incentive scheme for people to deposit crypto with them. 
