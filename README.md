@@ -12,11 +12,4 @@ So, then, what's smarter? Trading Ethereum tokens, or depositing them in an AMM'
 
 The algorithms by which an AMM calculates prices, pool token issuance, and exchange rates can be difficult to easily understand. This Excel worksheet lifts the lid by modeling a Uniswap AMM liquidity pool, using the exact calculations from the original Uniswap Core smart contracts. You can now observe how exchange rates, slippage, LP token issuance, and impermanent losses change, transaction-by-transaction. If you're an Ethereum or ERC token trader, this is very useful to understand.
 
-# I am
-Michael E. Kupietz, software engineering, consulting, & support for FileMaker Pro, Full-Stack Web, Desktop OS, & TradingView platforms  
-https://kupietz.com (Business info)  
-https://github.com/kupietools (Free software)  
-https://michaelkupietz.com (Personal & creative showcase)  
 
-## Background:
-This is definitely of narrow appeal, but I’m happy to share this Web3 AMM Liquidity Pool Simulator project I built in Excel back when I was interested in web3 & decentralized finance. In defi, trading is often done through what's called an Automated Market Maker, a smart contract that serves the same basic purpose as market makers in the traditional stock market, with the slight difference that AMMs require funding by the general public to provide liquidity for other people to trade with, so there is the additional complexity of providing an incentive scheme for people to deposit crypto with them. 
